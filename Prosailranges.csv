@@ -1,0 +1,15 @@
+Parameter,Symbol,Unit,Minimum,Maximum,Fix
+Leaf structural index,N,–,1.3,2.5,1.5
+Leaf chlorophyll content,Cab,µg/cm2,1,70,40
+Leaf carotenoid content,Car,µg/cm2,4,17,7
+Leaf dry matter content,Cm,g/cm2,0.001,0.05,0.018
+Leaf brown matter,Cbp,–,0,1,0.01
+Equivalent water thickness,Cw,g/cm2,0.001,0.05,0.017
+Leaf area index,LAI,m2 m−2,0.1,7,3
+Soil brightness ,Bsoil,–,0.1,2,1
+Soil Wetness,Psoil,–,0.1,1,0.3
+Average leaf angle,ALA,o,0,90,60
+Hot spot parameter,hot,m m−1,0.01,0.5,0.01
+Solar zenith angle,ᵩv,o,Fixed,Fixed,26.9454002
+View azimuth angle,ᵩv,o,Fixed,Fixed,50.3508987
+View Observer angle,ᵩv,o,Fixed,Fixed,3.9065938
